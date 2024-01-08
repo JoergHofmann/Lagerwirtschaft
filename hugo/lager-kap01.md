@@ -2,7 +2,7 @@
 title: "Einführung"
 linktitle: "Einführung"
 chapter: true
-weight: 2
+weight: 1
 ---
 
 @include "einfuehrung.md"

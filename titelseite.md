@@ -1,7 +1,7 @@
 ---
 title: @(Projekt.title)
 linktitle: @(Projekt.shorttitle)
-chapter: true
+chapter: false
 weight: 1
 ---
 
