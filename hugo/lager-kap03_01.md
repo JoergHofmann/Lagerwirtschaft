@@ -1,10 +1,9 @@
 ---
-title: "Ordnungsmäßige Lagerhaltung"
-linktitle: "Ordnungsmäßige Lagerhaltung"
+title: "Güter annehmen und kontrollieren"
+linktitle: "Güter annehmen"
 chapter: false 
 weight: 3
 ---
 
-+ Sauberkeit
-+ Geräumigkeit
-+ Übersichtlichkeit
+@include "annehmen.md"
+

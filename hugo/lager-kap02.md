@@ -1,9 +1,9 @@
 ---
-title: "Güter annehmen und kontrollieren"
-linktitle: "Güter annehmen"
+title: "Einführung"
+linktitle: "Einführung"
 chapter: true
 weight: 2
 ---
 
-Güter annehmen.
+@include "einfuehrung.md"
 

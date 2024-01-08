@@ -1,9 +1,9 @@
 ---
-title: "Einführung"
-linktitle: "Einführung"
+title: "Vorwort"
+linktitle: "Vorwort"
 chapter: true
 weight: 1
 ---
 
-@include "einfuehrung.md"
+@include "vorwort.md"
 

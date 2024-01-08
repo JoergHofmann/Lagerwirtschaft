@@ -6,3 +6,40 @@ pagetitle: "Lagerwirtschaft"
 shorttitle: "Lagerwirtschaft"
 wwwCover: "/lager.svg"
 pdfCover: "lager.pdf"
+firma:
+        name1: "Rat-Pack-Sound-OHG"
+        name2: ""
+        inhaber:
+                - name: 'Dean M.'
+                  einlage: 1.1
+                - name: 'Frank S.'
+                  einlage: 2.2
+                - name: 'Sammy D.'
+                  einlage: 3.3
+        strasse: "Langfeldstraße 4"
+        plz: "65191"
+        ort: "Wiesbaden"
+        tel: "+49(611)956835-0"
+        fax: "+49(611)956835-99"
+        www: "www.rat-pack-sound.de"
+        mail: "mail@rat-pack-sound.de"
+        ustid: "DE\ 347\ 993\ 141"
+        Hr: "HRA 4711" #Handelsregister
+        HrG: "AG Wiesbaden" # Registergericht
+        bank:
+                - name: "Nassauische Sparkasse"
+                  iban: "DE32\ 5105\ 0015\ 0034\ 2667\ 86"
+                  bic: "NASSDE55XXX"
+                - name: "Postbank AG"
+                  iban: "DE56\ 5001\ 0060\ 0445\ 3228\ 75"
+                  bic: "PBNKDEFFXXX"
+        skr: "SKR03"
+        Wj: "Kalenderjahr"
+        BM: "13"
+        GE: "Betriebsvermögensvergleich, Handelsbilanz"
+        UStBest: "Sollversteuerung"
+        Jahr: 2021
+        ErsterMonat: 11
+        ZahlMonate: 2
+        abschluss: "true"
+

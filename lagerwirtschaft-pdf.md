@@ -8,6 +8,9 @@ git: @(GetShortGITHash "")
 author: @(Autor.name)
 ---
 
+# Vorwort
+@include "vorwort.md"
+
 # Einführung
 @include "einfuehrung.md"
 
