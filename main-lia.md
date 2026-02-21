@@ -25,7 +25,8 @@ logo: images/ich-zeichnung.png
 @date@(br)
 Git: @version
 
-# Einleitung
+
+<!--# Einleitung
 
 @include "einfuehrung.md"
 
@@ -73,4 +74,7 @@ Git: @version
 
 # Ceterum censeo
 
-@include "ceterum_censeo.md" 
+@include "ceterum_censeo.md" -->
+
+# Übungen 
+@include "uebungen.md" -->
